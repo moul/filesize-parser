@@ -1,5 +1,8 @@
 filesize-parser
 ===============
+
+[![GuardRails badge](https://badges.production.guardrails.io/moul/filesize-parser.svg)](https://www.guardrails.io)
+
 Super simple module to take a human readable file size string and give you the byte representation of it.
 
 ```js
